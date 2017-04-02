@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FinallProject", "..\..\WebSites\FinallProject\", "{BA353AF2-1C60-429E-9B8C-D4EF2CF714CC}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FinallProject", "..\..\WebS
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "56524"
+		SlnRelativePath = "..\..\WebSites\FinallProject\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
