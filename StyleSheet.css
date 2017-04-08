@@ -1,0 +1,44 @@
+﻿html, body {
+    padding: 0;
+    margin:0;
+
+}
+#header{
+    background:#f19f00;
+    height: 10em;
+}
+#content{
+    width: 70%;
+    margin-left: 1%;
+    float: left;
+}
+#sidebar{
+    float: right;
+    width: 30%;
+    background: #eee;
+    height: 50em;
+    
+}
+#footer{
+
+}
+.button{
+    padding: 15px 15px;
+    text-decoration: none;
+    text-align: center;
+    width: 150px;
+    font-size:20px;
+    color: black;
+    display: block;
+}
+.button:hover{
+    color: turquoise;
+}
+#content img{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 1.25%;
+}
+#sidebar img{
+    width: 90%;
+}
